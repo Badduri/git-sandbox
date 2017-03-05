@@ -1,1 +1,2 @@
+Hello this is my bug fix
 hello i am the third file to this repository
