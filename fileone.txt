@@ -1,4 +1,1 @@
-adding the ne file to git repo session:
-The fist file of yhe git. this file is goin gto commit to the repository. 
- ihello guys:
- orlf
+hi this is my first file 
