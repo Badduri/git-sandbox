@@ -1,2 +1,6 @@
+Adding some file of text
 hey hi this is my first file
 Amending the commit after pushing the changes  
+
+hey hi this is my first file 
+
