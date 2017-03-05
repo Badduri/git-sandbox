@@ -1,1 +1,2 @@
-hi this is my first file 
+hey hi this is my first file
+Amending the commit after pushing the changes  
