@@ -1,6 +1,13 @@
+
 Adding some file of text
 hey hi this is my first file
 Amending the commit after pushing the changes  
 
 hey hi this is my first file 
+
+
+hello i m ne::adding the ne file to git repo session:
+The fist file of yhe git. this file is goin gto commit to the repository. 
+ ihello guys:
+ orlf
 
